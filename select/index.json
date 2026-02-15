@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "LaVI-Bavellabion",
+  "base_artist": "SLAVE.V-V-R",
+  "createdAt": "2026-02-15T16:17:51.118315Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "LaVI-Bavellabion (feat. GUMI)",
+      "artist": "SLAVE.V-V-R",
+      "has_synced": false,
+      "path": "select/01_LaVI-Bavellabion_(feat._GUMI)_SLAVE.V-V-R.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "LaVI‐Bavellabion (feat. GUMI)",
+      "artist": "SLAVE.V-V-R",
+      "has_synced": true,
+      "path": "select/02_LaVI‐Bavellabion_(feat._GUMI)_SLAVE.V-V-R.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LaVI-Bavellabion (feat. GUMI)",
+      "artist": "SLAVE.V-V-R",
+      "has_synced": false,
+      "path": "select/pl_01_LaVI-Bavellabion_(feat._GUMI)_SLAVE.V-V-R.txt"
+    }
+  ]
+}
